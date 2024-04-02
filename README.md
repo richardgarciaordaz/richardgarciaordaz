@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard Garcia</h1>
-<h3 align="center">Full-Stack Developer with a UX Design Focus, building user-centric products that solve real problems. I bridge the gap between design and development, leveraging my skills in both disciplines to create intuitive and visually appealing software solutions. UX Design Expertise: I bring experience in visual/UI design, specializing in concept development, strategic design, and product design.</h3>
+<h3 align="center">Front-end Developer with a UX Design Focus, building user-centric products that solve real problems. I bridge the gap between design and development, leveraging my skills in both disciplines to create intuitive and visually appealing software solutions. UX Design Expertise: I bring experience in visual/UI design, specializing in concept development, strategic design, and product design.</h3>
 
 - 💬 Ask me about **JavaScript, SQL, React, Python, Flask, HTML, CSS, APIs**
 
